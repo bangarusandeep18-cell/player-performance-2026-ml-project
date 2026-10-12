@@ -1,0 +1,6 @@
+Model,Accuracy,Balanced_Accuracy,Precision,Recall,Specificity,F1_Score,ROC_AUC,PR_AUC,Brier_Score,Threshold
+1. Baseline (Unweighted),0.883,0.7752,0.7363,0.601,0.9494,0.6618,0.9264,0.7707,0.0815,0.5
+2. Cost-Sensitive (Balanced Weights),0.8285,0.8459,0.5303,0.874,0.8178,0.6601,0.9239,0.7654,0.1202,0.5
+3. SMOTE Oversampling,0.834,0.8493,0.5397,0.874,0.8246,0.6673,0.9238,0.7678,0.1177,0.5
+4. Random Under-sampling,0.8185,0.8407,0.5138,0.8766,0.8048,0.6479,0.9226,0.7601,0.1235,0.5
+5. Hybrid (SMOTE + RUS),0.846,0.8467,0.5637,0.8478,0.8456,0.6771,0.9251,0.7708,0.1082,0.5

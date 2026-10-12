@@ -1,0 +1,23 @@
+Player_ID,Player_Name,Role,Team,Opponent,Match_Format,Predicted_Probability,Elite_Performer_Status,Recommendation
+P00119,Player_00119,Bowler,Team_E,Team_J,T20,0.9908,YES (Elite Performer),Must-Select Star / Player of the Match Contender
+P00107,Player_00107,Bowler,Team_I,Team_F,ODI,0.9876,YES (Elite Performer),Must-Select Star / Player of the Match Contender
+P00114,Player_00114,Bowler,Team_A,Team_I,ODI,0.9628,YES (Elite Performer),Must-Select Star / Player of the Match Contender
+P00105,Player_00105,All-Rounder,Team_D,Team_J,T20,0.9484,YES (Elite Performer),Must-Select Star / Player of the Match Contender
+P00113,Player_00113,Batsman,Team_G,Team_B,T20,0.41,NO (Standard),Standard Rotation / Development Player
+P00110,Player_00110,Wicket-Keeper,Team_I,Team_I,T20,0.3472,NO (Standard),Standard Rotation / Development Player
+P00104,Player_00104,Wicket-Keeper,Team_A,Team_I,T20,0.2623,NO (Standard),Standard Rotation / Development Player
+P00106,Player_00106,All-Rounder,Team_G,Team_F,ODI,0.1641,NO (Standard),Standard Rotation / Development Player
+P00122,Player_00122,Bowler,Team_I,Team_C,ODI,0.1124,NO (Standard),Standard Rotation / Development Player
+P00103,Player_00103,Batsman,Team_G,Team_C,T20,0.0744,NO (Standard),Standard Rotation / Development Player
+P00120,Player_00120,Bowler,Team_J,Team_B,T20,0.0743,NO (Standard),Standard Rotation / Development Player
+P00121,Player_00121,Bowler,Team_H,Team_D,T20,0.0247,NO (Standard),Standard Rotation / Development Player
+P00112,Player_00112,Batsman,Team_B,Team_I,T20,0.0092,NO (Standard),Standard Rotation / Development Player
+P00102,Player_00102,All-Rounder,Team_A,Team_I,T20,0.0075,NO (Standard),Standard Rotation / Development Player
+P00118,Player_00118,All-Rounder,Team_H,Team_I,ODI,0.0025,NO (Standard),Standard Rotation / Development Player
+P00116,Player_00116,All-Rounder,Team_D,Team_I,T20,0.0012,NO (Standard),Standard Rotation / Development Player
+P00117,Player_00117,All-Rounder,Team_H,Team_J,T20,0.0004,NO (Standard),Standard Rotation / Development Player
+P00108,Player_00108,Batsman,Team_E,Team_F,Test,0.0003,NO (Standard),Standard Rotation / Development Player
+P00109,Player_00109,Batsman,Team_I,Team_A,T20,0.0003,NO (Standard),Standard Rotation / Development Player
+P00101,Player_00101,Wicket-Keeper,Team_E,Team_E,T20,0.0001,NO (Standard),Standard Rotation / Development Player
+P00111,Player_00111,Bowler,Team_E,Team_H,ODI,0.0001,NO (Standard),Standard Rotation / Development Player
+P00115,Player_00115,Batsman,Team_I,Team_D,T20,0.0001,NO (Standard),Standard Rotation / Development Player

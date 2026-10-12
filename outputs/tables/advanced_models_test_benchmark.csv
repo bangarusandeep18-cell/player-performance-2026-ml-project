@@ -1,0 +1,7 @@
+Model,Accuracy,Balanced_Accuracy,Precision,Recall,Specificity,F1_Score,ROC_AUC,PR_AUC,Brier_Score,Threshold
+"Decision Tree (Gini, Pruned)",0.784,0.7883,0.4612,0.7953,0.7813,0.5838,0.8476,0.5619,0.1571,0.5
+Decision Tree (Entropy),0.755,0.7664,0.4229,0.7848,0.748,0.5496,0.8479,0.5639,0.1598,0.5
+Random Forest (100 Trees),0.8405,0.8312,0.5554,0.8163,0.8462,0.661,0.9147,0.7259,0.1197,0.5
+Extra Trees (100 Trees),0.832,0.833,0.5381,0.8346,0.8314,0.6543,0.9132,0.72,0.1535,0.5
+XGBoost Classifier,0.8335,0.8259,0.542,0.8136,0.8382,0.6506,0.9171,0.7453,0.1103,0.5
+LightGBM Classifier,0.841,0.8376,0.5552,0.832,0.8431,0.666,0.9174,0.7507,0.1102,0.5

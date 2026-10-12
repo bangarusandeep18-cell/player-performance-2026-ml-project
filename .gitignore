@@ -1,0 +1,15 @@
+.venv*/
+.venv/
+.venv_old/
+.vscode/
+__pycache__/
+*.py[cod]
+*.class
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+
